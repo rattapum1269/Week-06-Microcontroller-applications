@@ -1253,3 +1253,4 @@ idf.py -p COM3 monitor --print_filter "*:E"  # ดู error messages
 # Flash size mismatch
 idf.py menuconfig  # Serial flasher config -> Flash size
 ```
+
